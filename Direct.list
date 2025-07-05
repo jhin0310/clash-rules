@@ -1,6 +1,20 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+# 域名匹配
+DOMAIN,on.springsunday.net
+DOMAIN,hdsky.me
+DOMAIN,kp.m-team.cc
+DOMAIN,pterclub.com
+DOMAIN,pt.keepfrds.com
+DOMAIN-,totheglory.im
+DOMAIN,ourbits.club
+DOMAIN,chdbits.co
+DOMAIN,audiences.me
+DOMAIN,hhan.club
+DOMAIN,open.cd
+DOMAIN-,u2.dmhy.org
+DOMAIN,discfan.net
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
