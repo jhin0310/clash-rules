@@ -1,23 +1,23 @@
 # 代理补充列表
 
 # 域名匹配
-DOMAIN,springsunday.net
-DOMAIN,hdsky.me
-DOMAIN,kp.m-team.cc
-DOMAIN,pterclub.com
-DOMAIN,pt.keepfrds.com
-DOMAIN,totheglory.im
-DOMAIN,ourbits.club
-DOMAIN,chdbits.co
-DOMAIN,audiences.me
-DOMAIN,hhan.club
-DOMAIN,open.cd
-DOMAIN,u2.dmhy.org
-DOMAIN,discfan.net
 
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,u2.dmhy.org
+DOMAIN-SUFFIX,discfan.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
